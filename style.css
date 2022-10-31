@@ -122,3 +122,28 @@ button {
     border-radius: 7px;
 
 }
+
+/*quote*/
+
+.quote {
+    background-color: rgb(230, 230, 230);
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+    padding: 70px 185px;
+}
+
+.text {
+    font-weight: 100;
+    font-size: 26px;
+    font-style: italic;
+    margin: 0;
+}
+
+.author {
+    display: flex;
+    margin: 0;
+    justify-content:end;
+    font-weight: bold;
+    font-size: 19px;
+}
